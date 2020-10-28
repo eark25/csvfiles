@@ -1,0 +1,226 @@
+id,country,province,name,postal_code,user_id
+1,Bangladesh,,95545 Melby Crossing,9210,126
+2,Brazil,,42 Hooker Circle,55515-000,26
+3,Philippines,,8 Nobel Parkway,2718,141
+4,China,,33200 Fair Oaks Lane,,42
+5,Japan,,99906 Memorial Court,811-2405,25
+6,Turkmenistan,,96 Stang Crossing,,6
+7,United Kingdom,England,41 Shelley Way,LS6,143
+8,Ukraine,,7 Riverside Junction,,13
+9,France,Franche-Comté,21 Tennessee Crossing,25057 CEDEX,95
+10,Indonesia,,840 Maywood Avenue,,128
+11,Zimbabwe,,15170 Lake View Lane,,25
+12,Indonesia,,888 Heath Avenue,,100
+13,Brazil,,23353 Crownhardt Circle,48430-000,59
+14,Portugal,Lisboa,8 Beilfuss Pass,2655-425,90
+15,Bulgaria,,2 Oxford Avenue,8600,54
+16,China,,1570 Vera Drive,,147
+17,United States,District of Columbia,9 Hermina Place,20436,31
+18,Poland,,2072 Corben Park,97-545,46
+19,Indonesia,,92497 Carey Crossing,,60
+20,Netherlands,Provincie Overijssel,2 Little Fleur Parkway,8044,24
+21,Denmark,Region Hovedstaden,32 Forest Place,1728,119
+22,United States,Florida,638 Nelson Park,33710,146
+23,China,,7 Clove Terrace,,12
+24,Lesotho,,71 Mendota Drive,,12
+25,Indonesia,,60 Crest Line Plaza,,88
+26,Ukraine,,4375 Stuart Junction,,61
+27,Serbia,,5450 Melby Crossing,,16
+28,Ukraine,,04197 Express Drive,,79
+29,United States,Arizona,531 Ridgeway Place,85062,126
+30,Japan,,3 Vernon Junction,719-0302,40
+31,Thailand,,624 Buena Vista Junction,64130,127
+32,Vietnam,,2 Veith Point,,54
+33,Peru,,4 Hanson Trail,,28
+34,China,,84860 Vahlen Place,,70
+35,China,,02 Bartillon Hill,,32
+36,United States,Florida,40 Lerdahl Lane,32128,126
+37,Portugal,Braga,9864 Stang Hill,4820-013,106
+38,Venezuela,,836 Butterfield Court,,119
+39,China,,925 Lakeland Park,,28
+40,Poland,,01168 Boyd Road,42-470,77
+41,United States,New York,218 Westport Lane,11470,53
+42,Indonesia,,72258 International Road,,6
+43,Slovenia,,7 Evergreen Point,3304,26
+44,Madagascar,,459 Arizona Junction,,53
+45,Morocco,,7 Del Sol Terrace,,31
+46,South Africa,,4 Merrick Circle,5382,69
+47,Portugal,Braga,683 Armistice Avenue,4860-352,62
+48,Portugal,Lisboa,0 Montana Lane,2680-333,148
+49,Portugal,Viana do Castelo,5437 Burning Wood Hill,4910-035,70
+50,Peru,,9 Lighthouse Bay Circle,,30
+51,Indonesia,,41731 Nobel Terrace,,28
+52,Portugal,Braga,64 Debra Road,4890-341,32
+53,Russia,,15066 Eagan Way,601642,68
+54,China,,03722 Daystar Pass,,62
+55,Japan,,938 Harper Trail,879-2413,61
+56,Brazil,,7523 Lotheville Place,86180-000,124
+57,Philippines,,72 Algoma Drive,9401,108
+58,China,,55783 Ridge Oak Drive,,100
+59,China,,29 Tony Way,,32
+60,China,,858 Elgar Place,,57
+61,Russia,,2328 Hoffman Road,300999,53
+62,Botswana,,1 Northwestern Court,,59
+63,Philippines,,8719 Dayton Trail,6407,51
+64,Brazil,,12745 Annamark Terrace,86800-000,116
+65,Czech Republic,,74 Dennis Center,592 55,108
+66,Bolivia,,082 Kingsford Point,,86
+67,Honduras,,8 Sauthoff Drive,,20
+68,Russia,,128 Prentice Junction,601293,87
+69,Vietnam,,2447 7th Drive,,68
+70,United States,Pennsylvania,160 Little Fleur Pass,15279,79
+71,Portugal,Ilha de São Miguel,35056 American Hill,9680-423,130
+72,Czech Republic,,79220 Superior Junction,691 63,3
+73,Madagascar,,585 Morning Pass,,35
+74,France,Languedoc-Roussillon,889 Sage Street,34940 CEDEX 9,8
+75,China,,109 Westport Circle,,139
+76,China,,2894 Barnett Hill,,134
+77,Indonesia,,468 Rowland Lane,,83
+78,China,,0956 International Way,,146
+79,France,Rhône-Alpes,6952 Monica Center,38009 CEDEX 1,36
+80,Poland,,03 Redwing Avenue,08-107,94
+81,Malaysia,Sabah,04 3rd Drive,91127,21
+82,China,,287 Norway Maple Road,,132
+83,Iran,,985 Lukken Avenue,,55
+84,Philippines,,5 American Road,6702,10
+85,China,,65571 Scoville Trail,,133
+86,Iran,,2 Boyd Parkway,,94
+87,Indonesia,,3053 Jay Hill,,67
+88,Afghanistan,,54323 Alpine Plaza,,94
+89,Russia,,312 Mallory Crossing,347513,122
+90,China,,82072 Mcbride Place,,53
+91,Costa Rica,,14719 Fair Oaks Circle,11005,32
+92,Poland,,2976 Eliot Plaza,73-150,52
+93,Paraguay,,3378 Buell Court,,18
+94,Nigeria,,7 Tomscot Junction,,34
+95,Somalia,,53 Memorial Point,,135
+96,Malaysia,Pulau Pinang,5 Prairieview Lane,10662,33
+97,Greece,,6535 Bluestem Terrace,,26
+98,Czech Republic,,53 Debs Crossing,696 72,75
+99,Peru,,5 Nancy Alley,,56
+100,China,,42 Walton Pass,,124
+101,Indonesia,,12373 Northridge Crossing,,69
+102,Portugal,Porto,42398 Warner Hill,4415-005,118
+103,Czech Republic,,4150 Birchwood Road,747 11,109
+104,Portugal,Viana do Castelo,4919 Southridge Lane,4960-462,27
+105,Philippines,,97 Muir Trail,2411,136
+106,Slovenia,,0031 Ilene Plaza,9240,69
+107,Canada,Ontario,29 Charing Cross Avenue,L9N,69
+108,China,,56 Morning Junction,,106
+109,Philippines,,83119 Surrey Plaza,8303,110
+110,Peru,,27 Almo Road,,12
+111,Russia,,09 Ilene Hill,306205,98
+112,Indonesia,,5862 Arrowood Junction,,7
+113,Indonesia,,0155 Mifflin Avenue,,148
+114,Philippines,,5 Bellgrove Crossing,4124,133
+115,China,,7 Northwestern Lane,,76
+116,Micronesia,,12448 Muir Alley,,16
+117,Philippines,,3233 Bashford Parkway,2430,143
+118,Honduras,,274 Dunning Court,,38
+119,Sweden,Stockholm,39 Artisan Way,182 74,139
+120,Indonesia,,4788 Dawn Way,,89
+121,Armenia,,2271 Kenwood Center,,60
+122,Indonesia,,8 5th Park,,127
+123,China,,60 Sullivan Road,,7
+124,Russia,,13 Ronald Regan Center,692980,83
+125,France,Auvergne,34812 Claremont Terrace,15015 CEDEX,107
+126,Canada,Québec,2 Hanson Road,H7S,83
+127,Honduras,,025 Duke Center,,20
+128,Ivory Coast,,0 Mendota Plaza,,108
+129,Netherlands,Provincie Zuid-Holland,257 Toban Way,2614,8
+130,Azerbaijan,,534 Forest Run Point,,13
+131,Austria,Kaernten,22482 Victoria Junction,9421,6
+132,Czech Republic,,57726 Beilfuss Court,364 71,118
+133,Canada,Alberta,4 Hauk Place,A0A,32
+134,Ukraine,,9 Manitowish Crossing,,102
+135,Mexico,Oaxaca,1983 Hoepker Court,71730,19
+136,Sweden,Skåne,8 7th Drive,244 82,146
+137,Indonesia,,15135 Laurel Road,,134
+138,Democratic Republic of the Congo,,8158 Anderson Drive,,91
+139,Nigeria,,85146 Golf Hill,,40
+140,Netherlands,Provincie Drenthe,53 Columbus Court,7824,81
+141,France,Alsace,5 Sauthoff Point,67975 CEDEX 9,16
+142,Russia,,58591 Loomis Circle,399734,97
+143,Falkland Islands,,5 Dapin Street,,13
+144,Slovenia,,55970 Pankratz Terrace,6333,146
+145,China,,6 Mayfield Road,,1
+146,Benin,,7 Delaware Crossing,,32
+147,China,,2 Westridge Road,,71
+148,China,,4 Granby Road,,111
+149,Dominican Republic,,31089 Gerald Street,10411,40
+150,Honduras,,38505 Aberg Junction,,13
+151,Bolivia,,69 Hayes Center,,44
+152,China,,57527 Clove Lane,,128
+153,Poland,,42577 Oak Valley Avenue,06-456,91
+154,Israel,,5 Moland Alley,,146
+155,Thailand,,7446 Old Gate Avenue,10160,84
+156,Poland,,1034 Goodland Alley,11-709,20
+157,China,,402 Loeprich Street,,91
+158,Mexico,Jalisco,2444 Declaration Way,48744,20
+159,Argentina,,0 Manufacturers Way,3212,111
+160,Japan,,580 Hauk Court,992-0325,52
+161,Netherlands,Provincie Overijssel,54 Oak Valley Pass,7409,136
+162,South Africa,,6 Onsgard Place,3850,103
+163,China,,6355 Village Green Place,,8
+164,China,,6 Fremont Pass,,99
+165,Guatemala,,66 Texas Terrace,16012,95
+166,Peru,,240 Golden Leaf Way,,137
+167,Nigeria,,0969 Jay Junction,,48
+168,Czech Republic,,15 Shasta Plaza,507 13,136
+169,Greece,,03 Manufacturers Terrace,,42
+170,Kazakhstan,,53113 Alpine Street,,101
+171,China,,0 Debra Lane,,118
+172,United States,Texas,0 Little Fleur Point,77045,52
+173,China,,89 Russell Street,,55
+174,China,,62 Red Cloud Terrace,,28
+175,Peru,,9 Briar Crest Way,,59
+176,Sweden,Skåne,3946 Sunbrook Parkway,250 06,68
+177,China,,761 Shoshone Circle,,100
+178,China,,2858 Fair Oaks Way,,16
+179,Peru,,105 Eggendart Lane,,71
+180,Philippines,,7 Debra Terrace,6007,148
+181,Burkina Faso,,57 Ilene Way,,82
+182,Indonesia,,8 Summer Ridge Way,,41
+183,Guatemala,,5926 Linden Trail,04014,141
+184,Sweden,Jönköping,62 Carioca Street,333 24,135
+185,China,,14 Debs Plaza,,25
+186,Afghanistan,,2748 Alpine Drive,,150
+187,France,Centre,69794 Shoshone Parkway,37554 CEDEX,91
+188,China,,36 Southridge Junction,,29
+189,Jordan,,4 Birchwood Court,,150
+190,China,,00260 Bartillon Plaza,,106
+191,Brazil,,60098 Lakewood Gardens Hill,64178-000,83
+192,Israel,,15133 Continental Lane,,122
+193,Portugal,Viana do Castelo,721 Miller Alley,4950-416,78
+194,China,,1531 Farragut Circle,,103
+195,France,Languedoc-Roussillon,2327 Independence Place,30028 CEDEX 9,82
+196,China,,1 Union Hill,,7
+197,Bolivia,,2439 Annamark Pass,,116
+198,Greece,,9877 Bellgrove Pass,,150
+199,China,,6908 Menomonie Lane,,98
+200,Japan,,6 New Castle Street,999-6861,108
+201,South Korea,,2942 Elgar Street,,68
+202,Iran,,52443 Browning Junction,,79
+203,China,,2044 Bultman Avenue,,68
+204,Slovenia,,869 Acker Lane,4208,12
+205,China,,24 Vernon Court,,127
+206,Madagascar,,75 Raven Way,,5
+207,Finland,,963 Algoma Terrace,01770,114
+208,Philippines,,5633 Aberg Way,8303,75
+209,China,,74 Ohio Alley,,22
+210,Namibia,,22256 Lyons Trail,,34
+211,Philippines,,68 Oxford Point,8403,129
+212,China,,0 Cascade Court,,23
+213,Mauritius,,08 Jana Crossing,,144
+214,Indonesia,,5053 Kinsman Street,,27
+215,Cuba,,24117 Carberry Hill,,46
+216,China,,34 Gulseth Center,,10
+217,Poland,,9 Lake View Avenue,32-503,50
+218,Indonesia,,83588 Waubesa Alley,,106
+219,China,,81681 Chinook Drive,,91
+220,Russia,,2 Meadow Valley Road,171649,75
+221,Aland Islands,,85227 Doe Crossing Court,22730,17
+222,Philippines,,975 Arrowood Circle,6052,149
+223,Honduras,,4236 Tomscot Road,,135
+224,China,,9578 Manufacturers Point,,97
+225,Japan,,3 Lien Trail,498-0062,122
