@@ -1,36 +1,36 @@
 product_id,name,price,description,product_type,tag,target_customer,launch_date,discontinued,supplier_id,quantity
-1,Polo Tshirt red,67.25,Down-sized system-worthy access,Tshirt,Tshirt,Kids,11/26/2019,false,23,42
-2,One Plus 8T phone,47.4,Object-based explicit encryption,Phone,Phone,Men,8/31/2020,false,39,32
-3,Apple Macbook Pro,36.29,Decentralized needs-based core,Laptop,Laptop,Men,5/17/2020,false,18,11
-4,Polo Tshirt red,25.61,Polarised homogeneous approach,Tshirt,Tshirt,Men,8/24/2020,false,29,28
-5,Levis Jeans Blue,40.44,Front-line full-range strategy,Jeans,Jeans,Women,7/22/2020,false,30,13
-6,Microsoft Xbox One,32.29,Integrated 5th generation extranet,Console,Console,Kids,6/1/2020,false,16,48
-7,Chanel Ladies Perfume,48.35,Robust 24 hour Graphic Interface,Fragrance,Fragrance,Men,11/2/2019,false,1,78
-8,Jack Daniels Whisky,25.55,Proactive intangible adapter,Whisky,Whisky,Women,7/23/2020,true,35,56
-9,Johnny Walker Black Label Whisky,76.4,Synchronised reciprocal secured line,Whisky,Whisky,Women,3/26/2020,false,35,5
-10,Samsung Galaxy S20 phone,62.62,Enhanced 24 hour adapter,Phone,Phone,Kids,3/30/2020,false,11,71
-11,Apple Macbook Pro,10.64,Networked content-based function,Laptop,Laptop,Women,5/2/2020,true,14,49
-12,Gucci Men’s Perfume,3.51,Compatible intangible firmware,Fragrance,Fragrance,Men,9/29/2019,false,13,23
-13,Beats Headphones,44.9,Implemented local concept,Headphones,Headphones,Men,1/13/2020,true,16,45
-14,Apple Watch,15.0,Persevering analyzing application,Watch,Watch,Women,9/9/2020,false,30,57
-15,Beats Headphones,68.58,Operative content-based task-force,Headphones,Headphones,Men,1/6/2020,false,21,73
-16,Sony Playstation 5,39.28,Seamless interactive forecast,Console,Console,Men,1/5/2020,true,19,74
-17,Gucci Men’s Perfume,77.26,Devolved multimedia function,Fragrance,Fragrance,Kids,12/7/2019,false,5,54
-18,Samsung Galaxy S20 phone,52.43,Monitored neutral website,Phone,Phone,Men,3/21/2020,true,10,55
-19,Samsung Galaxy S20 phone,39.54,Configurable mobile knowledge user,Phone,Phone,Kids,4/6/2020,true,5,17
-20,Asus ROG gaming phone,34.14,Team-oriented hybrid approach,Phone,Phone,Kids,10/8/2019,true,1,41
-21,Apple iPhoneXI phone,74.9,Devolved didactic database,Phone,Phone,Women,12/21/2019,false,20,7
-22,Gucci Men’s Perfume,37.8,Versatile hybrid monitoring,Fragrance,Fragrance,Women,4/17/2020,false,38,69
-23,One Plus Laptop Bag,39.35,Pre-emptive upward-trending forecast,Bag,Bag,Women,12/24/2019,false,18,26
-24,Levis Jeans Blue,19.35,Multi-channelled optimizing structure,Jeans,Jeans,Men,2/10/2020,true,28,82
-25,Apple Watch,55.94,Focused mission-critical pricing structure,Watch,Watch,Women,8/6/2020,false,21,61
-26,Sony Playstation 5,45.11,Re-engineered maximized implementation,Console,Console,Men,9/17/2019,true,36,21
-27,Vans Pro Skate Sneakers,49.36,Total 24 hour internet solution,Shoes,Shoes,Women,12/22/2019,true,23,91
-28,Apple Macbook Pro,90.27,Sharable system-worthy knowledge user,Laptop,Laptop,Men,1/2/2020,true,28,17
-29,Dell Alienware Gaming Laptop,48.19,De-engineered client-driven frame,Laptop,Laptop,Women,10/17/2019,true,28,32
-30,Chanel Ladies Perfume,96.51,Innovative upward-trending structure,Fragrance,Fragrance,Men,6/3/2020,true,3,98
-31,Johnny Walker Black Label Whisky,50.15,Multi-tiered modular encryption,Whisky,Whisky,Women,3/18/2020,true,18,77
-32,One Plus 8T phone,15.78,Ameliorated coherent archive,Phone,Phone,Men,6/27/2020,true,15,82
-33,Apple Airpods 2,88.33,Fundamental tertiary parallelism,Headphones,Headphones,Kids,10/10/2019,true,28,38
-34,Levis Jeans Blue,81.51,Sharable zero defect implementation,Jeans,Jeans,Men,6/17/2020,false,21,71
-35,Vans Pro Skate Sneakers,23.14,Switchable foreground installation,Shoes,Shoes,Women,3/18/2020,false,35,76
+1,Polo Tshirt red,67.25,Down-sized system-worthy access,Tshirt,Tshirt,Kids,2020-01-28T02:43:07Z,false,23,42
+2,One Plus 8T phone,47.4,Object-based explicit encryption,Phone,Phone,Men,2020-05-21T02:48:13Z,false,39,32
+3,Apple Macbook Pro,36.29,Decentralized needs-based core,Laptop,Laptop,Men,2020-03-29T08:15:07Z,false,18,11
+4,Polo Tshirt red,25.61,Polarised homogeneous approach,Tshirt,Tshirt,Men,2020-10-12T01:48:46Z,false,29,28
+5,Levis Jeans Blue,40.44,Front-line full-range strategy,Jeans,Jeans,Women,2020-09-26T11:27:56Z,false,30,13
+6,Microsoft Xbox One,32.29,Integrated 5th generation extranet,Console,Console,Kids,2019-11-23T15:19:33Z,false,16,48
+7,Chanel Ladies Perfume,48.35,Robust 24 hour Graphic Interface,Fragrance,Fragrance,Men,2020-02-01T17:16:14Z,false,1,78
+8,Jack Daniels Whisky,25.55,Proactive intangible adapter,Whisky,Whisky,Women,2020-09-30T07:59:37Z,true,35,56
+9,Johnny Walker Black Label Whisky,76.4,Synchronised reciprocal secured line,Whisky,Whisky,Women,2020-06-12T22:17:03Z,false,35,5
+10,Samsung Galaxy S20 phone,62.62,Enhanced 24 hour adapter,Phone,Phone,Kids,2020-08-21T23:20:02Z,false,11,71
+11,Apple Macbook Pro,10.64,Networked content-based function,Laptop,Laptop,Women,2020-06-02T05:51:29Z,true,14,49
+12,Gucci Men’s Perfume,3.51,Compatible intangible firmware,Fragrance,Fragrance,Men,2020-07-06T21:48:33Z,false,13,23
+13,Beats Headphones,44.9,Implemented local concept,Headphones,Headphones,Men,2020-02-05T02:41:55Z,true,16,45
+14,Apple Watch,15,Persevering analyzing application,Watch,Watch,Women,2019-12-06T04:31:17Z,false,30,57
+15,Beats Headphones,68.58,Operative content-based task-force,Headphones,Headphones,Men,2020-07-17T11:26:43Z,false,21,73
+16,Sony Playstation 5,39.28,Seamless interactive forecast,Console,Console,Men,2020-05-09T23:23:49Z,true,19,74
+17,Gucci Men’s Perfume,77.26,Devolved multimedia function,Fragrance,Fragrance,Kids,2020-07-16T05:47:59Z,false,5,54
+18,Samsung Galaxy S20 phone,52.43,Monitored neutral website,Phone,Phone,Men,2020-05-27T06:47:45Z,true,10,55
+19,Samsung Galaxy S20 phone,39.54,Configurable mobile knowledge user,Phone,Phone,Kids,2019-11-21T06:00:02Z,true,5,17
+20,Asus ROG gaming phone,34.14,Team-oriented hybrid approach,Phone,Phone,Kids,2019-12-11T08:50:24Z,true,1,41
+21,Apple iPhoneXI phone,74.9,Devolved didactic database,Phone,Phone,Women,2020-09-10T23:45:09Z,false,20,7
+22,Gucci Men’s Perfume,37.8,Versatile hybrid monitoring,Fragrance,Fragrance,Women,2020-05-30T03:18:48Z,false,38,69
+23,One Plus Laptop Bag,39.35,Pre-emptive upward-trending forecast,Bag,Bag,Women,2019-11-24T02:38:23Z,false,18,26
+24,Levis Jeans Blue,19.35,Multi-channelled optimizing structure,Jeans,Jeans,Men,2020-07-17T04:18:53Z,true,28,82
+25,Apple Watch,55.94,Focused mission-critical pricing structure,Watch,Watch,Women,2020-02-29T10:58:29Z,false,21,61
+26,Sony Playstation 5,45.11,Re-engineered maximized implementation,Console,Console,Men,2020-07-05T17:19:45Z,true,36,21
+27,Vans Pro Skate Sneakers,49.36,Total 24 hour internet solution,Shoes,Shoes,Women,2020-01-07T11:24:35Z,true,23,91
+28,Apple Macbook Pro,90.27,Sharable system-worthy knowledge user,Laptop,Laptop,Men,2020-01-13T22:59:17Z,true,28,17
+29,Dell Alienware Gaming Laptop,48.19,De-engineered client-driven frame,Laptop,Laptop,Women,2020-04-03T16:08:39Z,true,28,32
+30,Chanel Ladies Perfume,96.51,Innovative upward-trending structure,Fragrance,Fragrance,Men,2020-04-09T01:53:47Z,true,3,98
+31,Johnny Walker Black Label Whisky,50.15,Multi-tiered modular encryption,Whisky,Whisky,Women,2020-05-26T11:14:23Z,true,18,77
+32,One Plus 8T phone,15.78,Ameliorated coherent archive,Phone,Phone,Men,2020-02-19T06:27:20Z,true,15,82
+33,Apple Airpods 2,88.33,Fundamental tertiary parallelism,Headphones,Headphones,Kids,2020-08-08T19:33:35Z,true,28,38
+34,Levis Jeans Blue,81.51,Sharable zero defect implementation,Jeans,Jeans,Men,2020-06-16T07:46:03Z,false,21,71
+35,Vans Pro Skate Sneakers,23.14,Switchable foreground installation,Shoes,Shoes,Women,2020-03-16T03:55:07Z,false,35,76
