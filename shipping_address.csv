@@ -1,0 +1,101 @@
+id,country,province,name,postal_code,user_id
+1,Colombia,San Juan del Cesar,4096 Center Pass,444038,6
+2,Russia,Zhulebino,44309 Emmet Place,140074,6
+3,Portugal,Igreja,211 Hudson Plaza,4540-579,34
+4,Indonesia,Denpasar,3369 North Hill,,36
+5,Philippines,Estacion,9474 Lukken Lane,3322,44
+6,Tanzania,Nzega,58431 Elka Center,,44
+7,Philippines,Duran,7 Eastlawn Pass,5813,3
+8,Japan,Minokamo,3 Sherman Plaza,509-0307,41
+9,China,Jiaocha,21 Westend Parkway,,18
+10,Indonesia,Bitung,2841 David Pass,,14
+11,China,Longcheng,16250 Fieldstone Junction,,18
+12,Indonesia,Sambirata,481 Comanche Court,,35
+13,Indonesia,Bebedahan,1782 Hazelcrest Court,,9
+14,China,Minzheng,4 Prentice Trail,,48
+15,Russia,Nazran’,9161 Marcy Center,386150,47
+16,Poland,Budziszewice,42445 Blue Bill Park Alley,97-212,35
+17,China,Altay,24 New Castle Avenue,,14
+18,Argentina,Salta,0 Talisman Road,4400,8
+19,Russia,Kolpashevo,664 Express Circle,636465,15
+20,Indonesia,Mauponggo,030 Holy Cross Circle,,8
+21,Japan,Jōetsu,537 Bluestem Pass,949-1742,38
+22,Brazil,Parnamirim,62 Hanson Trail,56163-000,49
+23,China,Duozhu,5 Dottie Court,,38
+24,Sudan,Al Lagowa,85 Havey Alley,,13
+25,Philippines,Kampokpok,1222 Doe Crossing Park,6536,49
+26,United States,Corpus Christi,949 Florence Road,78410,34
+27,China,Pujiang,58 Beilfuss Plaza,,46
+28,Philippines,Tapayan,37258 Declaration Way,1711,9
+29,Indonesia,Talondang,38820 Bowman Point,,44
+30,Indonesia,Kedungkrajan,61961 Sloan Plaza,,8
+31,Philippines,Olutanga,85 Reindahl Avenue,7041,39
+32,New Zealand,Kawakawa,81625 Superior Junction,0243,15
+33,Canada,Saint Andrews,28312 Hagan Crossing,E5B,18
+34,Indonesia,Bunisari,33217 Nancy Crossing,,17
+35,Portugal,São Paio de Gramaços,42 Hanover Court,3400-696,45
+36,China,Huangshapu,45284 Starling Court,,23
+37,North Korea,Anak,7735 Moland Circle,,30
+38,Jordan,Qīr Moāv,65 Dennis Parkway,,27
+39,Indonesia,Banjarejo,4999 Clove Center,,19
+40,Thailand,Kosum Phisai,0 Brentwood Center,44140,1
+41,Sweden,Hultsfred,4245 Ridgeway Way,577 92,15
+42,Indonesia,Sikka,242 Sommers Point,,24
+43,Canada,Charlemagne,16 Manufacturers Park,J6V,13
+44,China,Xinlin,4 Moulton Center,,17
+45,Indonesia,Megulung,551 Warner Trail,,34
+46,Tanzania,Mlangali,626 Gulseth Court,,43
+47,China,Kizil,74 Ridgeview Road,,1
+48,China,Chengcun,993 Fremont Trail,,37
+49,Bosnia and Herzegovina,Popovi,81907 Hooker Crossing,,31
+50,Somalia,Bereeda,39923 Vermont Terrace,,45
+51,Sweden,Tanumshede,8 Quincy Way,457 81,7
+52,Morocco,Boudinar,1 Twin Pines Place,,36
+53,Yemen,Al Ma‘allā’,6 Ohio Point,,18
+54,China,Zhangping,25289 Onsgard Drive,,13
+55,Brazil,Poço Verde,80744 Monterey Hill,49490-000,50
+56,Philippines,Punolu,3097 Lillian Circle,1114,6
+57,Guatemala,San Rafael Petzal,1632 5th Court,13028,21
+58,Indonesia,Kemiri,18 Vahlen Circle,,46
+59,France,Bordeaux,43859 Hazelcrest Circle,33100,48
+60,Thailand,Sukhothai,9920 Superior Lane,75120,38
+61,Indonesia,Welibo,17 Oak Valley Crossing,,45
+62,Democratic Republic of the Congo,Lisala,49 Melrose Circle,,7
+63,Indonesia,Suren,85642 Welch Court,,26
+64,Germany,Hamburg,2649 Eggendart Center,20359,6
+65,Indonesia,Sukamulya,5213 Ludington Alley,,50
+66,Indonesia,Enrekang,05 Sauthoff Alley,,20
+67,Poland,Mirów,4 Sauthoff Parkway,53-402,23
+68,Kyrgyzstan,Kara Suu,18145 Pankratz Park,,29
+69,China,Zhangdian,404 Helena Alley,,1
+70,Indonesia,Kebon,9795 Holy Cross Circle,,31
+71,France,Bernay,4436 Michigan Street,27309 CEDEX,21
+72,Thailand,Chok Chai,723 Dixon Circle,30190,1
+73,Indonesia,Tanggul Wetan,005 Debs Crossing,,4
+74,Indonesia,Lunyuk Ode,92177 Westerfield Parkway,,16
+75,Costa Rica,Chacarita,1 Fair Oaks Hill,60112,4
+76,New Zealand,Paihia,1223 Anniversary Trail,0247,21
+77,France,Niort,565 Tony Point,79004 CEDEX,30
+78,Sri Lanka,Matara,05742 Manufacturers Trail,81000,36
+79,Philippines,Mercedes,2 North Road,6808,1
+80,China,Xuancheng,9977 Memorial Alley,,14
+81,Afghanistan,Bal Chirāgh,455 Michigan Point,,13
+82,China,Xikou,83 Hoepker Way,,3
+83,Russia,Leskolovo,4 Coolidge Court,188668,28
+84,Moldova,Saharna,4039 Lindbergh Terrace,MD-5431,4
+85,Brazil,Lagoa Vermelha,5116 Hermina Place,95300-000,49
+86,Turkmenistan,Boldumsaz,03 Leroy Pass,,26
+87,Dominican Republic,Cevicos,23158 Tony Street,10702,33
+88,Argentina,Esquina,3376 Maryland Drive,5131,25
+89,Liberia,Kakata,77 Eagle Crest Crossing,,39
+90,Portugal,Alpedrinha,9378 Vahlen Street,6230-060,7
+91,Uganda,Ntungamo,67 Express Road,,47
+92,China,Xihe,97525 Carpenter Lane,,41
+93,Philippines,Idtig,3 Twin Pines Court,1085,28
+94,Russia,Rakhmanovo,481 Del Mar Drive,142145,23
+95,Indonesia,Mauponggo,7 Leroy Lane,,36
+96,Denmark,København,7 Brickson Park Plaza,1440,22
+97,Thailand,Kap Choeng,62909 Crownhardt Parkway,57210,45
+98,Brazil,Marau,227 Swallow Plaza,99150-000,28
+99,Indonesia,Borik,64089 Amoth Hill,,49
+100,Philippines,Estancia,21 Schmedeman Road,5017,6
